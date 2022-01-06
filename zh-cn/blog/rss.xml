@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SRS Blog</title>
+        <link>https://goblin-laboratory.github.io/srs-docs/zh-cn/blog</link>
+        <description>SRS Blog</description>
+        <lastBuildDate>Sat, 20 Nov 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SRS 在安防中的应用]]></title>
+            <link>https://goblin-laboratory.github.io/srs-docs/zh-cn/blog/SRS-in-Security</link>
+            <guid>SRS-in-Security</guid>
+            <pubDate>Sat, 20 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[安防领域是音视频的垂直细分行业中庞大的市场之一，安防也是物联网的应用领域之一，各种嵌入式的摄像头正在和互联网产生连接，SRS是其中关键的一环，实现了GB28181接入，转换成互联网直播和WebRTC协议，陈海博是SRS技术委员TOC成员，在安防领域有多年的丰富的工作经验，通过这次分享可以详细了解安防的音视频和互联网的差别，SRS解决了什么问题，安防领域要解决的关键问题是什么，哪些问题不能使用SRS解决，SRS未来对安防的支持的方向是什么。]]></description>
+            <content:encoded><![CDATA[<p>安防领域是音视频的垂直细分行业中庞大的市场之一，安防也是物联网的应用领域之一，各种嵌入式的摄像头正在和互联网产生连接，SRS是其中关键的一环，实现了GB28181接入，转换成互联网直播和WebRTC协议，陈海博是SRS技术委员TOC成员，在安防领域有多年的丰富的工作经验，通过这次分享可以详细了解安防的音视频和互联网的差别，SRS解决了什么问题，安防领域要解决的关键问题是什么，哪些问题不能使用SRS解决，SRS未来对安防的支持的方向是什么。</p><p><a href="https://www.bilibili.com/video/BV11S4y197Zx">观看视频</a></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[技术解码 | SRT和RIST协议综述]]></title>
+            <link>https://goblin-laboratory.github.io/srs-docs/zh-cn/blog/SRT-adn-RIST-preview</link>
+            <guid>SRT-adn-RIST-preview</guid>
+            <pubDate>Sat, 18 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[SRS 4.0支持了SRT推流。在直播推流领域，SRT无疑是最有希望替代RTMP的协议；腾讯云支持SRT推流后，客户反馈疗效不错。这篇文章重点介绍SRT的功能特性、适用的场景以及后续改进提升的方向，并简要介绍下RIST协议。]]></description>
+            <content:encoded><![CDATA[<p>SRS 4.0支持了SRT推流。在直播推流领域，SRT无疑是最有希望替代RTMP的协议；腾讯云支持SRT推流后，客户反馈疗效不错。这篇文章重点介绍SRT的功能特性、适用的场景以及后续改进提升的方向，并简要介绍下RIST协议。</p><p><a href="https://mp.weixin.qq.com/s?__biz=MzIzMjY3MjYyOA%3D%3D&amp;mid=2247502103&amp;idx=1&amp;sn=6c2cc942513c4f14773fabff40a367e4&amp;scene=45#wechat_redirect">阅读全文</a></p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
