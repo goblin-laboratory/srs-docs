@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksrs_docs=self.webpackChunksrs_docs||[]).push([[128],{5383:function(s){s.exports=JSON.parse('{"allTagsPath":"/srs-docs/blog/tags","slug":"/srs-docs/blog/tags/\u89c6\u9891","name":"\u89c6\u9891","count":1,"permalink":"/srs-docs/blog/tags/\u89c6\u9891"}')}}]);
